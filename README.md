@@ -985,10 +985,10 @@ MIT License - See [LICENSE](LICENSE) file for details
 
 ## 📧 Contact
 
-**Project Maintainer**: Navaraja Mannepalli 
-**Email**: mannepallinavaraja@gmail.com
-**LinkedIn**: [LinkedIn](https://www.linkedin.com/in/navaraja-mannepalli/)
-**Portfolio**: [Portfolio Site](https://personal-portfolio-zeta-sepia-50.vercel.app/)
+- **Project Maintainer**: Navaraja Mannepalli 
+- **Email**: mannepallinavaraja@gmail.com
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/navaraja-mannepalli/)
+- **Portfolio**: [Portfolio Site](https://personal-portfolio-zeta-sepia-50.vercel.app/)
 
 ---
 
