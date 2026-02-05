@@ -1,0 +1,30 @@
+features:
+  jerk:
+    enabled: true
+    threshold: 1000
+    window_size: 10
+    
+  click_interval:
+    enabled: true
+    cv_threshold: 0.1
+    min_samples: 20
+    
+  path_entropy:
+    enabled: true
+    entropy_threshold: 2.5
+    bin_size: 45
+    
+  headshot_rate:
+    enabled: true
+    rate_threshold: 0.8
+    reaction_time_threshold: 0.1
+    
+  recoil_compensation:
+    enabled: true
+    variance_threshold: 0.05
+
+temporal:
+  windows:
+    - 30
+    - 300
+    - 1800
