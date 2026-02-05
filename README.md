@@ -1,4 +1,4 @@
-# Production-Ready Anti-Cheat System
+# Hybrid Anti-Cheat System
 ### A Hybrid ML/DL Approach for Game Integrity
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
@@ -985,10 +985,10 @@ MIT License - See [LICENSE](LICENSE) file for details
 
 ## 📧 Contact
 
-**Project Maintainer**: [Your Name]  
-**Email**: your.email@example.com  
-**LinkedIn**: [Your LinkedIn]  
-**Portfolio**: [Your Portfolio Site]
+**Project Maintainer**: Navaraja Mannepalli 
+**Email**: mannepallinavaraja@gmail.com
+**LinkedIn**: [LinkedIn](https://www.linkedin.com/in/navaraja-mannepalli/)
+**Portfolio**: [Portfolio Site](https://personal-portfolio-zeta-sepia-50.vercel.app/)
 
 ---
 
